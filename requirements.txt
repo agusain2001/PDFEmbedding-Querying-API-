@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+numpy
+faiss-cpu
+PyPDF2
+google-generativeai
+python-dotenv
